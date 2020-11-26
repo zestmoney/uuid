@@ -1,1 +1,1 @@
-module github.com/AbhisheKundalia/uuid
+module github.com/zestmoney/uuid
